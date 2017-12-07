@@ -8,7 +8,7 @@ SetTitleMatchMode, 1
 global debugging
 debugging:=false
 
-#include AHKHID\AHKHID.ahk
+#include braids\ahkhid\AHKHID.ahk
 #include bitTwiddling.ahk
 
 
